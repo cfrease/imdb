@@ -1,2 +1,2 @@
 # imdb
-Analaysis of imdb dataset of movies from 2006-16.
+Analysis of imdb dataset of movies from 2006-16.
